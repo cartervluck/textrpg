@@ -45,7 +45,7 @@ map = {
 	'Town1': ['Brush1','Town1Shop','Town1Heal','Obelisk','Route2','Route3'],'Town1Heal': ['Town1'],
 	'Route2': ['MaplebellForest','Town1'],
 	'MaplebellForest': ['Route2','MaplebellAlcove','MB1'], 'MaplebellAlcove': ['MaplebellForest'], 'MB1': ['MaplebellForest','MB2','MB3'], 'MB2': ['MB1','MB4','MB5','MB6'], 'MB4': ['MB2'], 'MB5': ['MB2','MB7'], 'MB6': ['MB2','MB8','MB9'], 'MB8': ['MB6'], 'MB7': ['MB5'], 'MB9': ['MB6','MBOutlet'], 'MB3': ['MB1','MB10','MB11'], 'MB11': ['MB3'], 'MB10': ['MB3','MB12','MB13','MB14'], 'MB12': ['MB10'], 'MB13': ['MB10','MB15'], 'MB14': ['MB10','MB15','MB16'], 'MB16': ['MB14'], 'MB15': ['MB14','MB13'],
-	'MBOutlet': ['MB9'],
+	'MBOutlet': ['MB9',''],
 
 	'Hell': ['HellGate1']
 }
